@@ -42,21 +42,12 @@ The goal of this project is to choose a dataset from the available choices and t
 After wrangling, cleaning and analyzing the TMDb dataset from 1960 to 2015, I withdraw some conclusions as follows.
 
 * In terms of movie genres, there are 20 unique movie genres, and drama is the most popular genre, following by action, comedy and thriller. Moreover, drama, comedy, thriller and action are four most-made genres through the studied period.
-
 * Maximum number of movies release is in year 2011, while 1965 is the most profitable year. 
-
 * Summer months (May, June, July) and winter months (November and December) are the most profitable months for releasing movies. Thus, companies should take those months into consideration when reasling their new movies.
-
 * 'Avatar', 'Star Wars' and 'Titanic' are the most profitable movies.
-
 * There are many famous actors like Robert De Niro who casted in many films all over these years.
-
 * Universal Pictures, Warner Bros. and Paramount Pictures production companies produce the most and probabla earn more than other production companies.
-
 * Two hour long movies are more popular than too long or too short duration movies. Average runtime of the movies are decreasing year by year.
-
 * Finally there is a positive correlation between some of the features of the TMDb dataset.
-
     * Revenue is directly and positivaly connected to the budget and profit.
     * The more popular movies have shown a corresponding increase in revenue and hence profit.
-
